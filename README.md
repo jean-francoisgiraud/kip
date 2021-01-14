@@ -3,7 +3,7 @@ A mutual credit crypto currency.
 ### Author: Jean-Francois Giraud eng.
 ### Company: 8289468 Canada Inc.
 ### Contacts:  
-[Facebook](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter](https://twitter.com/8289468) [LinkedIn](https://linkedin.com/in/jfgiraudengineer) [Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase) [Google Sites](https://sites.google.com/site/8289468canadainc)  
+[Facebook.](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.](https://twitter.com/8289468) [LinkedIn.](https://linkedin.com/in/jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase) [Google Sites.](https://sites.google.com/site/8289468canadainc)  
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
 BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
@@ -12,14 +12,10 @@ Services: Smart-contract, blockchain, crypto-currencies.
 
 # Table of Contents
 [Contacts](#contacts)  
-[Definitions](#Definitions)  
 [kip token](#kip-token)  
 [Legal](#Legal)  
 [References](#References)  
 
-# Definitions 
-CC = Crypto Currencies.  
-SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
 ## kip token 
 The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
