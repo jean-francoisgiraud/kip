@@ -38,6 +38,9 @@ Private kip types of token. For example an organisation wishing to show only its
 
 Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency (beter accessibility to the data, once digital blockchain certificates are issued interested parties can verify them without having to depend on third-parties using private centralised databases). For example drone pilots can backup their CAR901.29 records on DCS tokens and they then would never have to worry about their certification data becoming lost, damaged, corrupted, stolen.  
 
+Example of a typical case:  
+"Alice" in Canada wants to help her grandfather "Bob" in India. Alice will help a local kip participant let's say "Mary" for one hour. After verification with Mary that she did receive one hour from Alice a kip will be issued to Alice. Alice can then send that kip to Bob who can spend it locally to receive help form a kip participant in his local community.  Or Alice can keep her kip and spend it later when she will be older and needing help. The advantage is that there are no service charges or fees or delays required to convert and transfer different currencies. Alice prefers to help Bob herself but this may be an indirect but acceptable way to help Bob. This system allows participants to keep track of the help provided and prevents abuse.  
+
 Data security: ISO 27001 (ISMS).  
 
 Payments:   
