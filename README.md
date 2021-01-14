@@ -18,7 +18,7 @@ Services: Smart-contract, blockchain, crypto-currencies.
 # Table of Contents
 [Contacts](#contacts)  
 [Definitions](#Definitions)  
-[kip](#kip)  
+[kip token](#kip-token)  
 [Legal](#Legal)  
 [References](#References)  
 
@@ -26,7 +26,7 @@ Services: Smart-contract, blockchain, crypto-currencies.
 CC = Crypto Currencies.  
 SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
-## kip  
+## kip token 
 The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
 
