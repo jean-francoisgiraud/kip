@@ -10,7 +10,6 @@ BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv
 For Paypal and Interrac please contact us.  
 Services: Smart-contract, blockchain, crypto-currencies.  
 
-# Table of Contents
 [Contacts](#contacts)  
 [kip token](#kip-token)  
 [Legal](#Legal)  
