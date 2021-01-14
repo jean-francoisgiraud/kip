@@ -14,7 +14,6 @@ A mutual credit crypto currency.
 [Services](#services)  
 [Definitions](#Definitions)  
 [kip](#kip)  
-[SLP](#SLP)  
 [Legal](#Legal)  
 [References](#References)  
 
@@ -23,21 +22,19 @@ Smart-contract, blockchain, crypto-currencies.
 
 KIPs are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yourself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or an oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP blockchain.  
 
-You can earn, spend kip by trading, providing, receiving, bartering products or services to your community for which you will earn kip. kip are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
-
-To receive the KIPs you earned.  
-- Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
-- Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
-- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP. 
-
-The original kip(kippus) were developed in Japan as a sectoral civic mutual credit currencies (not crypto).  
-
-Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency (beter accessibility to the data, once digital blockchain certificates are issued interested parties can verify them without having to depend on third-parties using private centralised databases). For example drone pilots can backup their CAR901.29 records on DCS tokens and they then would never have to worry about their certification data becoming lost, damaged, corrupted, stolen.  
-
 Example of a typical case:  
 "Alice" in Canada wants to help her grandfather "Bob" in India. Alice will help a local kip participant let's say "Mary" for one hour. After verification with Mary that she did receive one hour from Alice a kip will be issued to Alice. Alice can then send that kip to Bob who can spend it locally to receive help form a kip participant in his local community.  Or Alice can keep her kip and spend it later when she will be older and needing help. The advantage is that there are no service charges or fees or delays required to convert and transfer different currencies. Alice prefers to help Bob herself but this may be an indirect but acceptable way to help Bob. This system allows participants to keep track of the help provided and prevents abuse.  
 
-Data security: ISO 27001 (ISMS).  
+You can earn, spend kip by trading, providing, receiving, bartering products or services to your community for which you will earn kip. kip are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
+
+To receive the KIPs you earned.  
+- Install a compatible crypto wallet on your smartphone or computer such as the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
+- Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
+- Your customer will send your kip, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in kip. 
+
+The original kip(kippus) were developed in Japan as a sectoral civic mutual credit currencies (not crypto).  
+
+Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency.  
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
@@ -52,8 +49,7 @@ SLP = Simple Ledger Protocol (like ERC-20 but for BCH)
 The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
 
-## SLP
-[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain. 
+kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain. 
 
 ## Legal
 
