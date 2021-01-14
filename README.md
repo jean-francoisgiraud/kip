@@ -29,7 +29,7 @@ Advantages: Decentralization, immutability, security, economy (lower costs less 
 To receive the KIPs you earned.  
 Install a compatible crypto wallet on your smartphone or computer such as the wallet [Electron Cash SLP](https://simpleledger.cash/project/electron-cash-slp-edition/)  
 Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
-Your customer will send your kip, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in kip.  
+Your customer will send your kip, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her [bitcoin cash portfolio in](https://mint.bitcoin.com/#/portfolio) to pay for your product, service in kip.  
 
 kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
@@ -39,9 +39,9 @@ The original [kippu](https://en.wikipedia.org/wiki/Fureai_kippu) were developed 
 
 This is not financial advice and there are no warranties of any types. This section is a summary of the applicable legal and regulatory requirements for crypto currencies (CCs) and the certification of products. In case of conflict between this procedure and any official regulatory requirements the latter (i.e. the regulatory requirements, orders or statutes) shall always take precedence. Legal Requirements for CCs and smart contracts depend on the country where they are used. In Canada CCs are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of resources (time, money) in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you trade, buy or sell your CCs you will have profits or losses from capital gains that need to be reported for tax purposes. 
 
-I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210114t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud. 
+I hereby agree to the terms of this [document](https://github.com/jean-francoisgiraud/DigitalCertificationServices) with SHA-1 checksum commit 20210114t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, [Jean-Francois Giraud](https://github.com/jean-francoisgiraud). 
 
 ## References  
 [kip](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
-https://simpleledger.cash  
-https://github.com/Electron-Cash/Electron-Cash  
+[simpleledger](https://simpleledger.cash)  
+[Electron-Cash](https://github.com/Electron-Cash/Electron-Cash)  
