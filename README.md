@@ -8,17 +8,27 @@ A mutual credit crypto currency.
 [LinkedIn](https://linkedin.com/in/jfgiraudengineer)  
 [Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
+Payments:   
+BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
+BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
+For Paypal and Interrac please contact us.  
+
+Services: Smart-contract, blockchain, crypto-currencies.  
 
 # Table of Contents
 [Contacts](#contacts)  
-[Services](#services)  
 [Definitions](#Definitions)  
 [kip](#kip)  
 [Legal](#Legal)  
 [References](#References)  
 
-# Services
-Smart-contract, blockchain, crypto-currencies.  
+# Definitions 
+CC = Crypto Currencies.  
+SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
+
+## kip  
+The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
+https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
 
 KIPs are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yourself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or an oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP blockchain.  
 
@@ -36,20 +46,7 @@ The original kip(kippus) were developed in Japan as a sectoral civic mutual cred
 
 Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency.  
 
-Payments:   
-BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
-BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
-For Paypal and Interrac please contact us.  
-
-# Definitions 
-CC = Crypto Currencies.  
-SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
-
-## kip  
-The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
-https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
-
-kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain. 
+kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
 ## Legal
 
