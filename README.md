@@ -43,5 +43,6 @@ I hereby agree to the terms of this [document](https://github.com/jean-francoisg
 
 ## References  
 [kip](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
+[Japan’s Fureai Kippu Time-banking in Elderly Care: Origins, Development, Challenges and Impact](https://ijccr.net/2012/08/16/japans-fureai-kippu-time-banking-in-%e2%80%a8elderly-care-origins-development-%e2%80%a8challenges-and-impact/)  
 [simpleledger](https://simpleledger.cash)  
 [Electron-Cash](https://github.com/Electron-Cash/Electron-Cash)  
