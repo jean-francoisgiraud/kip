@@ -21,7 +21,7 @@ A mutual credit crypto currency.
 # Services
 Smart-contract, blockchain, crypto-currencies.  
 
-KIPs are tokens representing real-world assets, products, services. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+KIPs are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yorself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
 
 You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
 
