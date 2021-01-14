@@ -3,11 +3,7 @@ A mutual credit crypto currency.
 ### Author: Jean-Francois Giraud eng.
 ### Company: 8289468 Canada Inc.
 ### Contacts:  
-[Facebook](https://www.facebook.com/jeanfrancois.giraud.52/)  
-[Twitter](https://twitter.com/8289468)  
-[LinkedIn](https://linkedin.com/in/jfgiraudengineer)  
-[Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
-[Google Sites](https://sites.google.com/site/8289468canadainc)  
+[Facebook](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter](https://twitter.com/8289468) [LinkedIn](https://linkedin.com/in/jfgiraudengineer) [Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase) [Google Sites](https://sites.google.com/site/8289468canadainc)  
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
 BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
