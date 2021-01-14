@@ -1,5 +1,5 @@
 # kip
-A mutual credit crypto currency.
+A mutual credit crypto currency. [version francaise](https://github.com/jean-francoisgiraud/kip-fr/)  
 ### Author: Jean-Francois Giraud eng. 8289468 Canada Inc.
 
 [Facebook.](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.](https://twitter.com/8289468) [LinkedIn.](https://linkedin.com/in/jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase) [Google Sites.](https://sites.google.com/site/8289468canadainc)  
