@@ -27,13 +27,13 @@ You can earn, spend kip by trading, providing, receiving, bartering products or 
 Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency.  
 
 To receive the KIPs you earned.  
-Install a compatible crypto wallet on your smartphone or computer such as the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
+Install a compatible crypto wallet on your smartphone or computer such as the wallet [Electron Cash SLP](https://simpleledger.cash/project/electron-cash-slp-edition/)  
 Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
 Your customer will send your kip, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in kip.  
 
 kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
-The original kip(kippus) were developed in Japan as a sectoral civic mutual credit currencies (not crypto). 
+The original [kippu](https://en.wikipedia.org/wiki/Fureai_kippu) were developed in Japan as a sectoral civic mutual credit currencies (not crypto). 
 
 ## Legal
 
