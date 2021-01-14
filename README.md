@@ -11,12 +11,12 @@ For Paypal and Interrac please contact us.
 Services: Smart-contract, blockchain, crypto-currencies.  
 
 [Contacts](#contacts)  
-[kip token](#kip-token)  
+[kip coin](#kip-coin)  
 [Legal](#Legal)  
 [References](#References)  
 
 
-## kip token 
+## kip coin 
 The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
 
