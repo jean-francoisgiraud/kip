@@ -12,7 +12,6 @@ Payments:
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
 BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
 For Paypal and Interrac please contact us.  
-
 Services: Smart-contract, blockchain, crypto-currencies.  
 
 # Table of Contents
