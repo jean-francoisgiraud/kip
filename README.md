@@ -41,8 +41,7 @@ This is not financial advice and there are no warranties of any types. This sect
 
 I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210114t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud. 
 
-## References
-https://explorer.bitcoin.com  
-https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
+## References  
+[kip](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
 https://simpleledger.cash  
 https://github.com/Electron-Cash/Electron-Cash  
