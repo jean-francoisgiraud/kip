@@ -23,18 +23,14 @@ Smart-contract, blockchain, crypto-currencies.
 
 KIPs are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yourself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or an oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP blockchain.  
 
-You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
+You can earn, spend kip by trading, providing, receiving, bartering products or services to your community for which you will earn kip. kip are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
 
 To receive the KIPs you earned.  
 - Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
 - Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
 - Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP. 
 
-The original kippus were developed in Japan as a sectoral(1) civic mutual credit currencies (not crypto).  
-
-Public kip: For example organisations wishing to show their "interested parties" (regulators city community citizens) that they continuously meet their environmental obligations as per ISO 14000 could buy and then publish to the general public their kip tokens that show the history of their ISO 14000 compliance.  Another example of a public DCS is when an aerospace manufacturer publishes its FAA, TCCA, EASA type certificate or parts history/provenance to publically show its regulatory compliance. The kip token independantly confirms an organisations' claims. The advantage (vs traditional analog paper based certifications) is that the certification information and the audit trail is now digitised on a blockchain. DCS can be thought of as a replacement for third-parties such as registrars.  
-
-Private kip types of token. For example an organisation wishing to show only its customers that it continuously meets its contractual or regulatory obligations. A more specific example would be an organisation operating drones the DCS can be used to show regulatory compliance to CAR901.29 and to show the maintenace history when selling its drones. Private DCS types token will have their own token and private blockchain created which the organisation can then manage and share with their customers when and how they wish. Private DCS can use the SLP or ERC-20 protocol to create their own crypto-currencies. 
+The original kip(kippus) were developed in Japan as a sectoral civic mutual credit currencies (not crypto).  
 
 Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency (beter accessibility to the data, once digital blockchain certificates are issued interested parties can verify them without having to depend on third-parties using private centralised databases). For example drone pilots can backup their CAR901.29 records on DCS tokens and they then would never have to worry about their certification data becoming lost, damaged, corrupted, stolen.  
 
