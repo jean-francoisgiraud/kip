@@ -1,5 +1,6 @@
+[Version francaise](https://github.com/jean-francoisgiraud/kip-fr/)  
 # kip
-A mutual credit crypto currency. [version francaise](https://github.com/jean-francoisgiraud/kip-fr/)  
+A mutual credit crypto currency.   
 ### Author: Jean-Francois Giraud eng. 8289468 Canada Inc.
 
 [Facebook.](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.](https://twitter.com/8289468) [LinkedIn.](https://linkedin.com/in/jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase) [Google Sites.](https://sites.google.com/site/8289468canadainc)  
@@ -17,7 +18,7 @@ Services: Smart-contract, blockchain, crypto-currencies.
 The kip coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935
 
-KIPs are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yourself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or an oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP blockchain.  
+Crypto tokens are a type of cryptocurrency that represent an asset or specific use and reside on their blockchain. kip(s) are tokens representing products, services. One hour of service is worth one kip. So for example if you help your elderly neighboor for one hour after verification you will have earned one kip which you can send to help a family member or friend in a different location or you can keep the kip for yourself and use it later for a a similar service or to buy something. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or an oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP blockchain.  
 
 Example of a typical case:  
 "Alice" in Canada wants to help her grandfather "Bob" in India. Alice will help a local kip participant let's say "Mary" for one hour. After verification with Mary that she did receive one hour from Alice a kip will be issued to Alice. Alice can then send that kip to Bob who can spend it locally to receive help form a kip participant in his local community.  Or Alice can keep her kip and spend it later when she will be older and needing help. The advantage is that there are no service charges or fees or delays required to convert and transfer different currencies. Alice prefers to help Bob herself but this may be an indirect but acceptable way to help Bob. This system allows participants to keep track of the help provided and prevents abuse.  
