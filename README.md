@@ -33,6 +33,12 @@ Your customer will send your kip, she/he will paste it in the SLP address from h
 
 kip uses the [SLP protocol](https://simpleledger.cash). A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own kip) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
+Adding messages to a transaction/token (this can be used to explain or justify a transaction).  
+In your wallet (in this example we will use the wallet "My BCH wallet") when sending coins there will be a section named "Personal Memo" this is where the message is entered. 
+
+Verifying messages related to a transaction/token.  
+In your wallet (in this example we will use the wallet "My BCH wallet") use the function "View transaction on block explorer". This will take you to the explorer.bitcoin.com blockchain and you will have 2 options "Summary" or "View details" select summary to see the basic data for this transaction select "View details" for all the data including the message related to this transaction.  
+
 The original [kippu](https://en.wikipedia.org/wiki/Fureai_kippu) were developed in Japan as a sectoral civic mutual credit currencies (not crypto). 
 
 ## Legal
